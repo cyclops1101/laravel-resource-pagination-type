@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "name": "laravel-resource-pagination-type",
+    "version": "1.0.0",
+    "projects": [
+        "https://laravel.com/docs/11.x/pagination#main-content"
+    ],
+    "owners": [
+        {
+            "name": "cyclops1101",
+            "githubUsername": "cyclops1101"
+        }
+    ]
+}

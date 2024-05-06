@@ -1,0 +1,10 @@
+// tsconfig.json
+{
+    "compilerOptions": {
+        "baseUrl": "types",
+        "typeRoots": ["types"],
+        "module": "commonjs",
+        "target": "es6",
+        "strict": true,
+    }
+}
