@@ -1,5 +1,5 @@
 {
-    "private": true,
+    "private": false,
     "name": "laravel-resource-pagination-type",
     "version": "1.0.0",
     "projects": [
