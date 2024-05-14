@@ -25,5 +25,5 @@ export interface LaravelPaginationMeta {
 export interface LaravelPaginatedResource<T> {
     data: T[];
     links: LaravelPaginationLinks;
-    meta: LaravelPaginationMeta;
+    meta?: LaravelPaginationMeta;
 }
