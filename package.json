@@ -1,7 +1,7 @@
 {
     "private": false,
     "name": "laravel-resource-pagination-type",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "projects": [
         "https://laravel.com/docs/11.x/pagination#main-content"
     ],
