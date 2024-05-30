@@ -1,15 +1,15 @@
 {
   "name": "laravel-resource-pagination-type",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TypeScript type definitions for Laravel resource pagination",
-  "main" : "",
+  "main": "",
   "types": "index.d.ts",
   "files": [
     "index.d.ts"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cyclops1101/laravel-resource-pagination-type.git"
+    "url": "git+https://github.com/cyclops1101/laravel-resource-pagination-type.git"
   },
   "author": "cyclops1101",
   "license": "MIT",
