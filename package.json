@@ -1,6 +1,6 @@
 {
   "name": "laravel-resource-pagination-type",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "TypeScript type definitions for Laravel resource pagination",
   "main": "index.js",
   "types": "index.d.ts",
